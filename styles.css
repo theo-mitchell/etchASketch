@@ -1,0 +1,13 @@
+.canvas {
+    display: grid;
+    /* grid-template-columns: repeat(16, 50px); */
+    background-color: #fff;
+    color: #444;
+}
+
+.box {
+    background-color: #444;
+    color: #fff;
+    padding: 20px;
+    font-size: 150%;
+  }
